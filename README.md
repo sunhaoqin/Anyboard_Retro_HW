@@ -1,5 +1,7 @@
 # Anyboard_Retro_HW
 
+![test](https://github.com/sunhaoqin/Anyboard_Retro_HW/blob/master/AnyBoard_Retro.jpg)
+
 这是一个基于esp32的开源掌机项目，fork自odroid-go。
 
 修改了扩展部分电路，以及充放电部分的电路。同时重新做了layout，采用分体式设计（核心板，扩展板，按键板，屏幕板四部分）。当不需要
