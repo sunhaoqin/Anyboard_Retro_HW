@@ -1,0 +1,3 @@
+# Anyboard_Retro_HW
+Anyboard开源掌机的电路图和结构图
+电路上兼容odroidgo，所以可以直接使用odroidgo的固件
